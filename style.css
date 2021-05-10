@@ -1,0 +1,11 @@
+html, body {
+    margin: 0;
+    padding: 0;
+  }
+  canvas{
+    margin-top: 2px ;
+    margin-left: 2px ;
+    border: 5px dashed rgb(71, 44, 194);
+  }
+  
+  
